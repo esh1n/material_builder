@@ -50,7 +50,6 @@
     </style>
 
     <style name="ShapeAppearance.MyTheme.Button" parent="ShapeAppearance.MaterialComponents.SmallComponent">
-        <item name="cornerSize">23dp</item>
     </style>
 
     <style name="ShapeAppearance.AppTheme.Button.Small" parent="ShapeAppearance.MaterialComponents.SmallComponent">
