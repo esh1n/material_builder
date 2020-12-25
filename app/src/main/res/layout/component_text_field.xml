@@ -71,4 +71,23 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
+    <io.material.materialthemebuilder.widget.AppTextInputLayout
+        style="@style/Widget.MyTheme.TextInputLayout.OutlinedBox"
+        android:id="@+id/text_input_layout_filled1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/keyline_4"
+        app:layout_constraintTop_toBottomOf="@+id/text_input_layout_filled"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/text_input_edit_text_filled1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_mono_bold"
+            android:hint="@string/text_field_hint_text" />
+
+    </io.material.materialthemebuilder.widget.AppTextInputLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

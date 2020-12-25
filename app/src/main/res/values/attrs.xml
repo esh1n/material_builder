@@ -19,12 +19,15 @@
 
     <!--Color-->
     <attr name="boxColorList" format="color" />
+    <attr name="boxColorListActive" format="color" />
 
     <!--Dimension-->
     <attr name="bottomSheetCornerSize" format="dimension" />
 
     <!--Widgets-->
     <attr name="borderlessSmallButtonStyle" format="reference" />
+
+    <attr name="customTextInputStyle" format="reference" />
 
     <!--Common attributes-->
     <attr name="colorFillColor" format="color"/>

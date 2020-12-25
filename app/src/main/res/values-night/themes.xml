@@ -30,6 +30,9 @@
         <item name="colorOnBackground">@color/white_50</item>
         <item name="colorOnSurface">@color/white_50</item>
         <item name="colorOnError">@color/black_900</item>
+        <item name="boxColorList">@color/box_color_selector_dark</item>
+        <item name="boxColorListActive">@color/box_color_selector_dark_active</item>
+        <item name="customTextInputStyle">@style/Widget.MyTheme.TextInputLayout.OutlinedBox.Light</item>
         <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
         <item name="android:windowLightNavigationBar" tools:ignore="NewApi">false</item>
     </style>

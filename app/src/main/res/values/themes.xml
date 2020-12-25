@@ -42,6 +42,9 @@
         <item name="colorOnSurface">@color/black_900</item>
         <item name="colorOnError">@color/white_50</item>
         <item name="boxColorList">@color/box_color_selector</item>
+        <item name="boxColorListActive">@color/box_color_selector_active</item>
+
+        <item name="viewInflaterClass">io.material.materialthemebuilder.widget.AppViewInflater</item>
         <!--Material type attributes-->
         <item name="textAppearanceHeadline1">@style/TextAppearance.MyTheme.Headline1</item>
         <item name="textAppearanceHeadline2">@style/TextAppearance.MyTheme.Headline2</item>
@@ -62,11 +65,11 @@
         <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.MyTheme.LargeComponent</item>
         <!--Component styles-->
         <item name="materialButtonOutlinedStyle">@style/Widget.MyTheme.Button.OutlinedButton</item>
-        <item name="radioButtonStyle">@style/Widget.MyTheme.Button.RadioButton</item>
+        <!--item name="radioButtonStyle">@style/Widget.MyTheme.Button.RadioButton</item-->
         <item name="borderlessButtonStyle">@style/Widget.MyTheme.Button.TextButton</item>
         <item name="borderlessSmallButtonStyle">@style/Widget.MyTheme.Button.TextButton.Small</item>
         <item name="materialButtonStyle">@style/Widget.MyTheme.Button</item>
-        <item name="textInputStyle">@style/Widget.MyTheme.TextInputLayout.OutlinedBox</item>
+        <item name="customTextInputStyle">@style/Widget.MyTheme.TextInputLayout.OutlinedBox</item>
         <item name="checkboxStyle">@style/Widget.MyTheme.CompoundButton.CheckBox</item>
         <item name="bottomNavigationStyle">@style/Widget.MyTheme.BottomNavigationView</item>
         <item name="bottomSheetStyle">@style/Widget.MyTheme.BottomSheet</item>
