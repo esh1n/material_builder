@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e105cb23-5a88-4a76-a59e-70a13049a03a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_5_API_23]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lkW9Hkfvd2NnIQxQw6S7j9xL4K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_API_30" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-16T17:58:37.562Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/color" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/color" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MaterialThemeBuilder.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e105cb23-5a88-4a76-a59e-70a13049a03a" name="Default Changelist" comment="" />
+      <created>1608141416201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608141416201</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added my styles">
+      <created>1608905390164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608905390164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="added my styles" />
+    <option name="LAST_COMMIT_MESSAGE" value="added my styles" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="191" y="124" width="1197" height="719" key="AVDManager" timestamp="1608141823625">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="191" y="124" width="1197" height="719" key="AVDManager/0.23.1536.937@0.23.1536.937" timestamp="1608141823625" />
+    <state x="327" y="237" key="AndroidCreateResourceDirectoryDialog" timestamp="1608903690787">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="327" y="237" key="AndroidCreateResourceDirectoryDialog/-1024.23.1024.745/0.23.1536.937@0.23.1536.937" timestamp="1608903690787" />
+    <state x="319" y="244" key="AndroidCreateResourceFileDialog" timestamp="1608904489502">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="319" y="244" key="AndroidCreateResourceFileDialog/-1024.23.1024.745/0.23.1536.937@0.23.1536.937" timestamp="1608904489502" />
+    <state x="319" y="244" key="AndroidCreateResourceFileDialog/0.23.1536.937@0.23.1536.937" timestamp="1608142983802" />
+    <state x="65" y="26" key="CommitChangelistDialog2" timestamp="1608905389955">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="65" y="26" key="CommitChangelistDialog2/-1024.23.1024.745/0.23.1536.937@0.23.1536.937" timestamp="1608905389955" />
+    <state x="54" y="32" key="DiffContextDialog" timestamp="1608905732090">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="54" y="32" key="DiffContextDialog/-1024.23.1024.745/0.23.1536.937@0.23.1536.937" timestamp="1608905732090" />
+    <state x="403" y="244" width="656" height="476" key="Downloadable.Font.Dialog.Size" timestamp="1608143327579">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="403" y="244" width="656" height="476" key="Downloadable.Font.Dialog.Size/0.23.1536.937@0.23.1536.937" timestamp="1608143327579" />
+    <state x="268" y="157" key="Vcs.Push.Dialog.v2" timestamp="1608905735723">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="268" y="157" key="Vcs.Push.Dialog.v2/-1024.23.1024.745/0.23.1536.937@0.23.1536.937" timestamp="1608905735723" />
+    <state x="482" y="238" width="615" height="490" key="find.popup" timestamp="1608905073962">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="482" y="238" width="615" height="490" key="find.popup/-1024.23.1024.745/0.23.1536.937@0.23.1536.937" timestamp="1608905073962" />
+    <state x="482" y="238" width="615" height="490" key="find.popup/0.23.1536.937@0.23.1536.937" timestamp="1608141671795" />
+    <state x="305" y="326" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608905712167">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="305" y="326" key="git4idea.remote.GitConfigureRemotesDialog/-1024.23.1024.745/0.23.1536.937@0.23.1536.937" timestamp="1608905712167" />
+    <state x="404" y="245" width="670" height="676" key="search.everywhere.popup" timestamp="1608902081115">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="404" y="245" width="670" height="676" key="search.everywhere.popup/-1024.23.1024.745/0.23.1536.937@0.23.1536.937" timestamp="1608902081115" />
+  </component>
+</project>
