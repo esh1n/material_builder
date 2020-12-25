@@ -1,2 +1,0 @@
-io/material/materialthemebuilder/BuildConfig.java
- io.material.materialthemebuilder.BuildConfig
