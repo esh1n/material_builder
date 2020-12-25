@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
 ~ Copyright (C) 2019 The Android Open Source Project
 ~
 ~ Licensed under the Apache License, Version 2.0 (the "License");
@@ -41,14 +40,13 @@
     <!--theme attributes, see https://www.youtube.com/watch?v=Owkf8DhAOSo-->
 
     <!--Color palette-->
+    <color name="amber_300">#f28151</color><!--Color primary (dark)-->
+    <color name="amber_500">#ef5e21</color><!--Color primary (light)-->
+    <color name="amber_600">#ce470f</color> <!--Color primary variant (dark)-->
+    <color name="amber_700">#b63f0d</color> <!--Color primary variant (light)-->
 
-    <color name="purple_200">#bb86fc</color> <!--Color primary (dark)-->
-    <color name="purple_500">#6200ee</color> <!--Color primary (light)-->
-    <color name="purple_600">#4b01d0</color> <!--Color primary variant (dark)-->
-    <color name="purple_700">#3700b3</color> <!--Color primary variant (light)-->
-
-    <color name="green_200">#03dac6</color> <!--Color secondary-->
-    <color name="green_500">#018786</color> <!--Color secondary variant-->
+    <color name="green_200">#268050</color><!--Color secondary-->
+    <color name="green_500">#1e6640</color><!--Color secondary variant-->
 
     <color name="red_200">#cf6679</color> <!--Color error (dark)-->
     <color name="red_600">#b00020</color> <!--Color error (light)-->
@@ -61,11 +59,6 @@
     <!--Color on secondary (light), color on background (light),-->
     <!--color on surface (light)-->
     <color name="black_900">#000000</color>
-
-    <color name="navy_500">#64869B</color>
-    <color name="navy_700">#37596D</color>
-    <color name="navy_900">#073042</color>
-    <color name="green_300">#3DDC84</color>
 
 
 </resources>

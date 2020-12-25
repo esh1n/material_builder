@@ -49,7 +49,7 @@
         <item name="cornerSizeTopLeft">?bottomSheetCornerSize</item>
     </style>
 
-    <style name="ShapeAppearance.MyTheme.Button" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+    <style name="ShapeAppearance.MyTheme.Button" parent="ShapeAppearance.MyTheme.SmallComponent">
     </style>
 
     <style name="ShapeAppearance.AppTheme.Button.Small" parent="ShapeAppearance.MaterialComponents.SmallComponent">

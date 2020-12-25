@@ -38,7 +38,7 @@
         <item name="android:focusable">true</item>
     </style>
 
-    <style name="Widget.MyTheme.BottomSheet.Modal" parent="Widget.MyTheme.BottomSheet">
+    <style name="Widget.MyTheme.BottomSheet.Modal">
         <item name="shapeAppearanceOverlay">?attr/shapeAppearanceLargeComponent</item>
     </style>
 
